@@ -1,0 +1,10 @@
+- 👋 Hi, My name is Courtney Whitson
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 whitsoncourtney97@gmail.com
+
+<!---
+cwhitson97/cwhitson97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
